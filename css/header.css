@@ -98,7 +98,7 @@ header .row {
 }
 
 .fixed .navbar ul li a::before {
-  background-color: #5f88e0;
+  background-color: #031c54;
 }
 
 .navbar ul li a:hover::before {
@@ -109,4 +109,8 @@ header .row {
 .navbar ul li a.active::before {
   width: 100%;
   left: 0;
+}
+
+.logoText{
+  color: #20028d;
 }
