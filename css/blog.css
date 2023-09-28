@@ -1,5 +1,6 @@
 .blog {
-    background-color: #fff;
+    /* background-color: #fff; */
+    background: linear-gradient(104deg, #f38686 0.88%, #70c8f7 99.31%);
     padding: 100px 0px;
 }
 
